@@ -1,0 +1,15 @@
+C:\Users\maxde\source\repos\BDGA2\bin\Debug\netcoreapp3.1\BDGA2.exe
+C:\Users\maxde\source\repos\BDGA2\bin\Debug\netcoreapp3.1\BDGA2.deps.json
+C:\Users\maxde\source\repos\BDGA2\bin\Debug\netcoreapp3.1\BDGA2.runtimeconfig.json
+C:\Users\maxde\source\repos\BDGA2\bin\Debug\netcoreapp3.1\BDGA2.runtimeconfig.dev.json
+C:\Users\maxde\source\repos\BDGA2\bin\Debug\netcoreapp3.1\BDGA2.dll
+C:\Users\maxde\source\repos\BDGA2\bin\Debug\netcoreapp3.1\BDGA2.pdb
+C:\Users\maxde\source\repos\BDGA2\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\maxde\source\repos\BDGA2\obj\Debug\netcoreapp3.1\BDGA2.csprojAssemblyReference.cache
+C:\Users\maxde\source\repos\BDGA2\obj\Debug\netcoreapp3.1\BDGA2.AssemblyInfoInputs.cache
+C:\Users\maxde\source\repos\BDGA2\obj\Debug\netcoreapp3.1\BDGA2.AssemblyInfo.cs
+C:\Users\maxde\source\repos\BDGA2\obj\Debug\netcoreapp3.1\BDGA2.csproj.CoreCompileInputs.cache
+C:\Users\maxde\source\repos\BDGA2\obj\Debug\netcoreapp3.1\BDGA2.csproj.CopyComplete
+C:\Users\maxde\source\repos\BDGA2\obj\Debug\netcoreapp3.1\BDGA2.dll
+C:\Users\maxde\source\repos\BDGA2\obj\Debug\netcoreapp3.1\BDGA2.pdb
+C:\Users\maxde\source\repos\BDGA2\obj\Debug\netcoreapp3.1\BDGA2.genruntimeconfig.cache
